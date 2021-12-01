@@ -1,6 +1,6 @@
-### Here's Lucas! 🪓
+## Here's Lucas! 🪓
 
-I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)
+##### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)
 
 <div align="center">
   <a href="https://github.com/chitolina">
