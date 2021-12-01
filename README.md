@@ -1,6 +1,6 @@
 ### Here's Lucas! 🪓
 
-- 🌱 I’m currently learning Python/Data Science/Big Data
+- 🌱 I’m curious Biologist currently learning Python/Data Science/Big Data
 - 😄 Pronouns: he/him
 
 -->
