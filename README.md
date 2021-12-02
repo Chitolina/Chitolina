@@ -24,9 +24,9 @@
     <a href = "mailto:lucas.chitolina@edu.pucrs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-chitolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ##### Take a look at my website portolio, where I slice some analisys more detailed: https://chitolina.netlify.app
-  
+   
   ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
+##### Take a look at my website portfolio, where I slice some analysis more detailed: https://chitolina.netlify.app
