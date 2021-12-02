@@ -1,6 +1,6 @@
 ## Here's Lucas! 🪓
 
-##### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)
+#### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)
 
 
 <div align="center">
@@ -29,4 +29,4 @@
  
 </div>
  
-##### Take a look at my website portfolio, where I slice some analysis more detailed: https://chitolina.netlify.app
+#### Take a look at my website portfolio, where I slice some analysis more detailed: https://chitolina.netlify.app
