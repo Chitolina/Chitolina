@@ -13,6 +13,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;  src="<img src="https://github.com/Chitolina/2nd_Site_TranquilPeak_Theme/blob/master/themes/hugo-tranquilpeak-theme/static/hifox.png" class="hrafntinna" title="" alt="">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
 </div>
   
   ##
