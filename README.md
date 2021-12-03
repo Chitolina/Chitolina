@@ -1,17 +1,17 @@
 ## Here's Lucas! 🪓
 
-#### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)
+#### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps (●'◡'●)  
 
 
 <div align="center">
   <a href="https://github.com/chitolina">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=chitolina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitolina&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="right" alt="Lucas-pic" height="303" style="border-radius:100px; src="<img src=".github/workflows/giffy.gif" class="hrafntinna" title="" alt="">
-  </div>
+    
+ </div>
+ <div style="display: inline_block"><br>
+ <img align="right" alt="Lucas-pic" height="300" style="border-radius:500px; src="<img src=".github/workflows/giffy.gif" class="hrafntinna" title="" alt="">
+ </div>
   
  #### • Frequent use:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
