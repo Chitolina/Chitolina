@@ -26,6 +26,7 @@
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-plastic&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-plastic&logo=Plotly)
+ ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-plastic&logo=Seaborn)
   
  #### • Learning:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark)
@@ -48,5 +49,5 @@
     <a href="https://instagram.com/acechitolina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://discord.gg/https://discord.gg/QjcPx4qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:lucas.chitolina@edu.pucrs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-chitolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/lucas-chitolina" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
