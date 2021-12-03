@@ -13,35 +13,37 @@
   <img align="right" alt="Lucas-pic" height="303" style="border-radius:100px; src="<img src=".github/workflows/giffy.gif" class="hrafntinna" title="" alt="">
   </div>
   
- #### Frequent use:
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
+ #### • Frequent use:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-plastic&logo=Linux)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-plastic&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-plastic&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-plastic&logo=visual-studio-code)  
   
- #### Data Science:
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ #### • Data Science:
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-plastic&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-plastic&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-plastic&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-plastic&logo=Plotly)
   
- #### Learning:
- ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ #### • Learning:
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-plastic&logo=Databricks)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-plastic&logo=Power-BI)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-plastic&logo=Docker)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-plastic&logo=R)
 
   ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
 
   ##
  
-####  ❤ Take a look at my website portfolio, where I slice some analysis more detailed: 
-  https://chitolina.netlify.app
+####  • Take a look at my website portfolio, where I slice some analysis more detailed: 
+  <div>
+  <a href="https://chitolina.netlify.app" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
+  <div> 
 
-#### ❤ Find me on the following links:
+####  • Find me on the following links:
 <div>   
     <a href="https://instagram.com/acechitolina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://discord.gg/https://discord.gg/QjcPx4qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
