@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas, wanna play?
 
-#### I’m a curious Biologist currently learning Python/Data Science/Big Data, but sometimes I risk trying Front-end leaps.
+#### I’m a curious Biologist currently learning Python/Data Science/Big Data.
 
 
 <div align="center">
