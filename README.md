@@ -41,7 +41,7 @@
  
 ####  • Take a look at my website portfolio, where I slice some analysis more detailed: 
   <div>
-  <a href="https://chitolina.netlify.app" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
+  <a href="https://lucaschitolina.netlify.app" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
   <div> 
 
 ####  • Find me on the following links:
