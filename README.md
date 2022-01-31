@@ -30,9 +30,9 @@
   
  #### • Learning:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-plastic&logo=Databricks)
+ #![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-plastic&logo=Databricks)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-plastic&logo=Power-BI)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-plastic&logo=Docker)
+ #![Docker](https://img.shields.io/badge/-Docker-black?style=flat-plastic&logo=Docker)
  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
 
   ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
