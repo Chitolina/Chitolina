@@ -1,5 +1,3 @@
-## Hi, I'm Lucas
-
 #### I’m a curious Biologist currently learning Python/Data Science/Big Data.
 
 
