@@ -31,7 +31,8 @@
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-plastic&logo=Power-BI)
  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
  ![PostGRE](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
-
+ ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat&logo=Databricks&logoColor=red)
+  
   ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
 
   ##
