@@ -13,7 +13,7 @@
  <img align="right" alt="Lucas-pic" height="300" style="border-radius:500px; src="<img src=".github/workflows/giffy.gif" class="hrafntinna" title="" alt="">
  </div>
   
- #### • Frequent use:
+ #### • Uso frequente:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-plastic&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-plastic&logo=Git)
@@ -27,7 +27,7 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-plastic&logo=Plotly)
   
- #### • Learning:
+ #### • Aprendendo:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark) 
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-plastic&logo=Power-BI)
  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
@@ -38,12 +38,12 @@
 
   ##
  
-####  • Take a look at my website portfolio, where I slice some analysis more detailed: 
+####  • Dê uma olhada em meu portfólio: 
   <div>
   <a href="https://lucaschitolina.netlify.app" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
   <div> 
 
-####  • Find me on the following links:
+####  • Outros endereços:
 <div>   
     <a href="https://instagram.com/acechitolina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href = "mailto:lucas.chitolina@edu.pucrs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
