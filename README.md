@@ -26,7 +26,6 @@
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-plastic&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-plastic&logo=Plotly)
- ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-plastic&logo=Seaborn)
   
  #### • Learning:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark) 
