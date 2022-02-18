@@ -33,7 +33,7 @@
  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
  ![PostGRE](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
  ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat&logo=Databricks&logoColor=red)
-  
+ ![R](https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=red)
   ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
 
   ##
