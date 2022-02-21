@@ -10,7 +10,7 @@
     
  </div>
  <div style="display: inline_block"><br>
- <img align="right" alt="Lucas-pic" height="240" style="border-radius:500px; src="<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/IgFhbm6Nc1wGapSInG/200w.gif?cid=ecf05e4748jviw0hd4ia00594339k7cv8k05gs5pvlmy2uv9&amp;rid=200w.gif&amp;ct=s" width="248" height="248" alt="Good Morning Hello Sticker by Loof and Timmy" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
+ <img align="right" alt="Lucas-pic" height="170" style="border-radius:100px; src="<img class="giphy-gif-img giphy-img-loaded" src="https://media4.giphy.com/media/Y3eP2Jjmq3iJwfbCs3/200w.gif?cid=ecf05e478qj3kk0lj19npnih45v9y2778glerbgrsjst43xi&amp;rid=200w.gif&amp;ct=s" width="170" height="150" alt="DeltaFiberNetwerk dinosaur dino delta dinosaurus Sticker" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
  </div>
   
  #### • Uso frequente:
