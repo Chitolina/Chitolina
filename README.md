@@ -10,7 +10,7 @@
     
  </div>
  <div style="display: inline_block"><br>
- <img align="right" alt="Lucas-pic" height="300" style="border-radius:500px; src="<img src=".github/workflows/giffy.gif" class="hrafntinna" title="" alt="">
+ <img align="right" alt="Lucas-pic" height="240" style="border-radius:500px; src="<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/IgFhbm6Nc1wGapSInG/200w.gif?cid=ecf05e4748jviw0hd4ia00594339k7cv8k05gs5pvlmy2uv9&amp;rid=200w.gif&amp;ct=s" width="248" height="248" alt="Good Morning Hello Sticker by Loof and Timmy" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
  </div>
   
  #### • Uso frequente:
@@ -34,7 +34,6 @@
  ![PostGRE](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
  ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat&logo=Databricks&logoColor=red)
  ![R](https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=red)
-  ![Snake animation](https://github.com/chitolina/chitolina/blob/output/github-contribution-grid-snake.svg)
 
   ##
  
@@ -42,7 +41,12 @@
   <div>
   <a href="https://lucaschitolina.netlify.app" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
   <div> 
-
+    
+####  • Aqui você encontra meus certificados: 
+  <div>
+  <a href="https://github.com/Chitolina/Certificados/tree/main/Certificados" target="_blank"><img src=https://forthebadge.com/images/badges/check-it-out.svg></a> 
+  <div>  
+    
 ####  • Outros endereços:
 <div>   
     <a href="https://instagram.com/acechitolina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
