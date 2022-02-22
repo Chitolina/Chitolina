@@ -10,7 +10,7 @@
     
  </div>
  <div style="display: inline_block"><br>
- <img align="right" alt="Lucas-pic" height="170" style="border-radius:100px; src="<img class="giphy-gif-img giphy-img-loaded" src="https://media4.giphy.com/media/Y3eP2Jjmq3iJwfbCs3/200w.gif?cid=ecf05e478qj3kk0lj19npnih45v9y2778glerbgrsjst43xi&amp;rid=200w.gif&amp;ct=s" width="170" height="150" alt="DeltaFiberNetwerk dinosaur dino delta dinosaurus Sticker" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
+ <img align="right" alt="Lucas-pic" height="250" style="border-radius:1000px; src="<img src="https://media4.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif?cid=ecf05e47r4piwvov5yx02nm3up8a2jei03pwcs2b33mxmb2m&amp;rid=giphy.gif&amp;ct=s" alt="Technology Data Sticker by Putti Apps" style="width: 500px; height: 500px; left: 0px; top: 0px;">
  </div>
   
  #### • Uso frequente:
