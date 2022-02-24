@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-      <h1 class="title">Bem-vindo, sou o Lucas ;) </h1>
-      <script src="script.js"></script>
-  </body>
-</html>
 
 ##### Analista de Dados com formação em Biologia e mestrado em Biologia Molecular, ênfase em Bioinformática. Possui experiência com análise de dados, estatística e redação científica. Apresenta, como formação complementar, prática com QGIS, Office, Power BI, Linux e Python.
 
