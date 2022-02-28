@@ -1,4 +1,4 @@
-<h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo, sou o Lucas</a> <a  target="_blank">🦕</a></h1>
+<h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo, sou o Lucas</a> <a  target="_blank"></a></h1>
 
 
 ##### Analista de Dados com formação em Biologia e mestrado em Biologia Molecular. Apresento experiência acadêmica voltada à bioinformática; a partir de meu período no mestrado, afunilei minha dedicação à área computacional, a qual ao desenvolver a pesquisa, exerci prática com análise de dados, Python e Shell Script (Linux). Desde então, busco aprimorar meu conhecimento complementando-o com cursos e projetos realizados neste nicho.
