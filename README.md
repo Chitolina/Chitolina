@@ -16,26 +16,26 @@
  </div>
   
  #### • Uso frequente:
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-plastic&logo=Linux)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-plastic&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-plastic&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-plastic&logo=visual-studio-code)  
+ </div>
+ <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
+ <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'>
+ <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+ <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div>
+  
   
  #### • Data Science:
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-plastic&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-plastic&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-plastic&logo=scikit-learn)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-plastic&logo=Plotly)
-  
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+ <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+ <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+ <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+ 
  #### • Aprendendo:
- ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-plastic&logo=Apache-Spark) 
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-plastic&logo=Power-BI)
- ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
- ![PostGRE](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white)
- ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat&logo=Databricks&logoColor=red)
- ![R](https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=red)
+ <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+ <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
 
   ##
  
