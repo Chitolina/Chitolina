@@ -17,7 +17,7 @@
   
  #### • Uso frequente:
  </div>
- <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'style="width: 20; height: 25px">
+ <img src='https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white'style="width: 20; height: 25px">
  <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px">
  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'style="width: 20; height: 25px">
  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"style="width: 20; height: 25px">
