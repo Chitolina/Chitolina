@@ -1,7 +1,7 @@
 <h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo, sou o Lucas</a> <a  target="_blank"></a></h1>
 
 
-##### Analista de Dados, bacharel em Ciências Biológicas e mestre em Biologia Molecular, com experiência em bioinformática e análise de dados. Durante o mestrado, concentrei-me em aplicações computacionais, desenvolvendo habilidades em Python, Shell Script (Linux) e análise gráfica/estatística. Posteriormente, atuei como analista de planejamento na empresa de varejo Quero-Quero, manipulando dados, automatizando rotinas e analisando os indicadores de saúde da empresa. Com ampla capacitação em ferramentas como Python, SQL, Excel entre outras, integro conhecimentos técnicos e analíticos para a resolução de desafios.
+##### Analista de Dados com formação em Ciências Biológicas e Mestrado em Biologia Molecular, especializado em bioinformática e análise de dados. Durante o mestrado, foquei em aplicações computacionais, desenvolvendo expertise em Python, Shell Script (Linux) e análise gráfica/estatística. Minha experiência profissional inclui atuação como Analista de Planejamento na Quero-Quero, empresa do setor varejista, onde fui responsável por manipulação de dados, automação de processos e análise de indicadores-chave de desempenho corporativo. Com domínio de ferramentas como Python, SQL, Excel, entre outras, combino conhecimentos técnicos e analíticos para solucionar problemas complexos e impulsionar decisões estratégicas baseadas em dados.
 
 <div align="center">
   <a href="https://github.com/chitolina">
